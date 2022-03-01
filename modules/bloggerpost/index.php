@@ -37,7 +37,7 @@ include "template/header.php";
 								<label>
 									Site Blogspot
 								</label>								
-								<input required="" name='blogurl' type="url" placeholder="https://lili.blogspot.com/" value="https://igniel.com" />
+								<input autofocus="" required="" name='blogurl' type="url" placeholder="https://example.blogspot.com/"/>
 							</div>			
 
 							<button class="main-btn primary-btn square-btn btn-hover button-submit" type="submit">

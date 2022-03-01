@@ -27,7 +27,7 @@ include "template/header.php";
 								<label>
 									Sitemap URL
 								</label>								
-								<input required="" name='blogurl' type="url" placeholder="https://example.com/sitemap.xml" value="https://www.apkdlmod.com/sitemap.xml" />
+								<input autofocus="" required="" name='blogurl' type="url" placeholder="https://example.com/sitemap.xml"/>
 							</div>			
 
 							<button class="main-btn primary-btn square-btn btn-hover button-submit" type="submit">

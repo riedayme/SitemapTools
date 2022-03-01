@@ -27,7 +27,7 @@ include "template/header.php";
 								<label>
 									Sitemap Post Universal
 								</label>								
-								<textarea required="" name='siteurl' rows="5" placeholder="https://example.com/sitemap.xml">https://www.apkdlmod.com/sitemap-pt-post-2022-02.xml</textarea>
+								<textarea autofocus="" required="" name='siteurl' rows="5" placeholder="https://example.com/sitemap.xml"></textarea>
 							</div>			
 
 							<button class="main-btn primary-btn square-btn btn-hover button-submit" type="submit">

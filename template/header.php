@@ -20,7 +20,7 @@
 
 	<!-- ========== All CSS files linkup ========= -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="assets/css/LineIcons.css" />
+	<link rel="stylesheet" href="assets/css/lineicons.css" />
 	<link rel="stylesheet" href="assets/css/main.css" />
 </head>
 <body>

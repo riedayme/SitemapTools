@@ -128,7 +128,7 @@ class SitemapUniversal extends Fetch
 			{
 				libxml_use_internal_errors(true);
 				$sitemap = simplexml_load_string($sitemap);
-				if (property_exists($sitemap, 'url')) 
+				if (@property_exists($sitemap, 'url')) 
 				{
 					foreach ($sitemap as $post) 
 					{
